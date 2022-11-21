@@ -1,0 +1,112 @@
+main{
+    height: 700px; ;
+    width: 650px ; 
+    background-color:slateblue;
+    position: absolute;
+    left: 520;
+    top: 20px;
+    border-radius: 40px;
+    
+}
+.A{
+    height: 50px;
+    border-bottom:  4px solid white;
+    width: 100%;
+}
+.B{
+    height: 600px;
+    background-color: yellow;
+    border-bottom: 4px solid white;
+    width: 100%;
+
+}
+.one{
+    position: relative;
+    top: 25px;
+    left: 10px;
+    background-image: url(IMAGE/one.jpeg) ;
+    height: 175px;
+    width: 175px;
+    background-size: cover;
+    background-size: 200px 175px;
+    float: left;
+}
+.two{
+    position: relative;
+    top: 25px;
+    left: 20px;
+    background-image: url(IMAGE/two.jpeg) ;
+    height: 175px;
+    width: 175px;
+    background-size: cover ;
+    background-size: 200px 175px;
+    float: left;
+    background-repeat: no-repeat;
+}
+.three{
+    height: 550px;
+    width: 262px;
+    position: relative;
+    top: 25px;
+    right: 10px;
+    background-image: url(IMAGE/three.jpeg) ;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    float: right;
+
+}
+.four{
+    background-image: url(IMAGE/four.jpeg) ;
+    position: relative;
+    top: 35px;
+    left: 10px;
+    background-size: 200px 175px;
+    height: 175px;
+    width: 175px;
+    background-size: cover;
+    float: left;
+    background-repeat: no-repeat;
+}
+.five{
+    position: relative;
+    top: 35px;
+    left: 20px;
+    background-image: url(IMAGE/five.jpeg) ;
+    background-size: cover ;
+    background-size: 200px 175px;
+    height: 175px;
+    width: 175px;
+    float: left;
+    background-repeat: no-repeat;
+}
+.six{
+    position: relative;
+    top: 45px;
+    left: 10px;
+    background-image: url(IMAGE/six.jpeg) ;
+    background-size: cover ;
+    background-size: 200px 175px;
+    height: 175px;
+    width: 175px;
+    
+    float: left;
+    background-repeat: no-repeat;
+}
+.seven{
+    position: relative;
+    top: 45px;
+    left: 20px;
+    background-image: url(IMAGE/seven.jpeg) ;
+    height: 180px;
+    width: 175px;
+    background-size: 200px 175px;
+    float: left;
+    background-repeat: no-repeat;
+}
+.C{
+    height: 50px;
+    border-bottom:  4px solid white;
+    width: 100%;
+    text-align: center;
+}
